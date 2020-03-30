@@ -4,7 +4,30 @@ A coding challenge to enhance your learning. <br>
  - Our Website : http://www.aitcodedown.in/ <br>
  - Our Blog : http://blog.aitcodedown.in/
 
-After forking this repo if you want you can remove the content below this. But if it is possible then add your content above it 
+Hey I accepted this challenge, and learning Java Script for this
+
+This is my log repo for CODE-DOWN 2020 CHALLENGE. 
+
+## Day 0
+I learn about JS basic from <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Link</a> 
+
+## Day 1
+I learn about JS functions
+
+## Day 2
+I learn about JS topic 3
+
+## Day 3
+I learn about JS topic 4
+
+## Day 4
+I learn about JS topic 5
+
+## Day 5
+Started one project
+
+## Day 6
+I learn about JS topic 6 and added xyz feature in my project
 
 <hr>
 
